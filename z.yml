@@ -1,0 +1,13 @@
+---
+description: Driver Microchip MCP4921 DAC
+fullname: lib.microchip.mcp4921
+info:
+    chip_manufacturer: Microchip
+    chip_name: MCP4921
+    name: Digital-to-Analog Converter
+    type: Actuator
+keywords:
+- dac
+- microchip
+title: Microchip MCP4921 Digital-to-Analog Converter
+...
